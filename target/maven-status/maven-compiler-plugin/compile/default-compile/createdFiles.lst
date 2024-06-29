@@ -1,0 +1,6 @@
+gnius\code\servapipublictop\document\FotoInformation.class
+gnius\code\servapipublictop\ServApiPublicTopApplication.class
+gnius\code\servapipublictop\document\Image.class
+gnius\code\servapipublictop\repository\FotoInformationReposotory.class
+gnius\code\servapipublictop\service\FotoTopService.class
+gnius\code\servapipublictop\controller\FotoTopController.class
